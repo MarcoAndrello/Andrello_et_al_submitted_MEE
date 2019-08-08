@@ -2,7 +2,7 @@
 
 # Title: "A multi-locus demo-genetic simulator to model local adaptation in heterogeneous landscapes"
 # Authors: Marco Andrello, Christelle Noirot, Florence Débarre and Stéphanie Manel
-# Submitted to: Methods in Ecology and Evolution
+# Submitted to: Molecular Ecology Resources
 # Date: 05 Aug 2019
 
 # "01a - Simulations.R"
